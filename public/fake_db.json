@@ -1,0 +1,17 @@
+{
+  "ownerName": "",
+
+  "Email": "",
+
+  "password": "",
+
+  "date": "",
+
+  "ageOptions": ["India", "USA", "UK"],
+  "ownerCountrySelection": "",
+  "genderOptions": ["Male", "Female"],
+  "gender": ["Male"],
+  "phone": "",
+  "address": ""
+
+}
