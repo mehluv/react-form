@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://fb.me/react-15.0.0.js"></script>
+    <script src="https://fb.me/react-dom-15.0.0.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.34/browser.js"></script>
+</head>
+<body>
+<div id="root">
+  <!-- This div's content will be managed by React. -->
+</div>
+<script type="text/babel">
+    class MyComponent extends React.Component{
+       render(){
+       return <div>
+    </div>
+   }
+}
+  ReactDOM.render( <div>
+    <form action="/submit.html" method="post">
+ Name:
+    <input type="text" name="name"></input> <br></br>
+    Country Name:
+    <input type="text" name="country_name"></input><br></br>
+    Gender:
+      <input type="radio" name="gender" value="male"></input>Male 
+      <input type="radio" name="gender" value="female"></input>Female <br></br>
+      Email:<input id="email" name="email" type="email" required></input> <br></br>
+      Phone Number:<input id="phone" name="phone" type="tel" placeholder="please entre 10 digit number only" required></input><br></br>
+      Address line 1: <textarea id="address1" name="address1" required></textarea> <br></br>
+      Address line 2: <textarea id="address2" name="address2" required></textarea> <br></br>
+      Date of birth:<input id="dob" name="dob" type="date" required></input><br></br>
+      Password:<input id="password" name="password" type="password" required></input><br></br>
+     <input type="submit" value="Submit"></input>
+
+</form>
+</div>,
+  document.getElementById('root'))
+</script>
+</body>
+</html>

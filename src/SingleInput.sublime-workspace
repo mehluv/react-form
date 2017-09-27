@@ -1,0 +1,234 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"listContacts"
+			],
+			[
+				"RE",
+				"ReactDOM"
+			],
+			[
+				"Name",
+				"NameForm"
+			],
+			[
+				"pro",
+				"propTypes"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"for",
+				"fornicationWords"
+			],
+			[
+				"dec",
+				"decimalToPercent"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/controller/Documents/myproject/src/containers/FormContainer.js",
+		"/Users/controller/Documents/myproject/src/components/FormContainer.js",
+		"/Users/controller/Documents/react-app-practice3/src/components/FetchHappen.js",
+		"/Users/controller/Documents/myproject/src/containers/datetime.js",
+		"/Users/controller/Documents/myproject/src/FormContainer.js",
+		"/Users/controller/Documents/myproject/public/fake_db.json",
+		"/Users/controller/Documents/myproject/src/SingleInput.js",
+		"/Users/controller/Documents/react-app-practice3/src/index.js",
+		"/Users/controller/Documents/myproject/public/index.html",
+		"/Users/controller/Documents/myproject/src/index.js",
+		"/Users/controller/Documents/myproject/src/nameForm.js",
+		"/Users/controller/Documents/myproject/src/index.html",
+		"/Users/controller/Documents/myproject/src/contactform.js",
+		"/Users/controller/Documents/myproject/src/Main.js",
+		"/Users/controller/Documents/react-app-practice3/src/components/FormContainer.js",
+		"/Users/controller/Documents/myproject/src/App.js",
+		"/Users/controller/Documents/react-app-practice3/src/components/App.js",
+		"/Users/controller/Documents/react-app-practice3/src/components/SwearCountList.js",
+		"/Users/controller/Documents/react-app-practice3/src/components/SwearCountRow.js",
+		"/Users/controller/Documents/react-app-practice3/src/components/SwearJar.js",
+		"/Users/controller/Documents/react-app-practice3/src/components/index.js",
+		"/Users/controller/Documents/react-app-practice3/src/components/React.js",
+		"/Users/controller/Documents/react-app-practice3/config/webpack.config.dev.js",
+		"/Users/controller/Downloads/Ex_Files_React_EssT_Upd/Exercise Files/Ch04/04_03/finish/src/components/SkiDayCount-ES6.js",
+		"/Users/controller/Downloads/Ex_Files_React_EssT_Upd/Exercise Files/Ch04/04_03/finish/src/components/SkiDayCount.js",
+		"/Users/controller/Downloads/Ex_Files_React_EssT_Upd/Exercise Files/Ch04/04_03/finish/src/components/SkiDayCount-createClass.js",
+		"/Users/controller/Documents/react-app-practice2/src/stylesheets/ui.scss",
+		"/Users/controller/Documents/react-app-practice2/src/components/SwearJar.js",
+		"/Users/controller/Documents/react-app-practice2/config/webpack.config.dev.js",
+		"/Users/controller/Documents/react-app-practice/src/stylesheets/ui.scss",
+		"/Users/controller/Documents/react-app-practice/src/index.js",
+		"/Users/controller/Documents/react-app-practice/src/App.js",
+		"/Users/controller/Documents/react-app-practice/src/components/SwearJar.js",
+		"/Users/controller/Documents/react-app-practice2/config/webpack.config.prod.js",
+		"/Users/controller/Documents/style.css",
+		"/Users/controller/Documents/something.html",
+		"/Users/controller/Documents/script.js",
+		"/Users/controller/Documents/react-app-practice2/package.json",
+		"/Users/controller/Documents/react-app-practice/package.json",
+		"/Users/controller/Documents/react-app-practice/src/stylesheets/ui.css",
+		"/Users/controller/Documents/react-app-practice/public/index.html",
+		"/Users/controller/Documents/react-app-practice/src/App.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SingleInput.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
