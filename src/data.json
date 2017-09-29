@@ -1,0 +1,14 @@
+{
+ "firstName": "priya",
+ "lastName": "sdf",
+ "email": "anirudthanak@gmail.com",
+ "sex": "female",
+ "favoriteColor": "00ff00",
+ "hobbies": {
+  "Reading": true
+ },
+ "employed": true,
+ "birthdate": "08/30/2017",
+ "notes": "sdfds",
+ "phonenum": "32424"
+}
